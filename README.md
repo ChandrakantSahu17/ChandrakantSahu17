@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chandrakant Sahu
-- 👀 I’m interested in software development.
-- 🌱 I’m currently learning competitive programming
+- 👀 I’m interested in Software Development.
+- 🌱 I’m currently learning DevOps
 - 📫 Email : chandrakant.sahu459@gmail.com
 
 <!---
